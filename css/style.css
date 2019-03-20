@@ -1,0 +1,14 @@
+body {
+  background: #4C4848;
+  background-attachment: fixed;
+  background-size: cover; }
+
+.container .skill .row {
+  margin-left: 0;
+  margin-right: 0; }
+
+.container .stack {
+  background: black; }
+
+.container .port-item {
+  cursor: pointer; }
